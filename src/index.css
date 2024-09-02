@@ -52,43 +52,41 @@ a{
 
 .sect1{
     margin-left: 41px;
-    border-bottom: 1px solid white; 
     padding-bottom: 10px; 
+    border-bottom: 1px solid white; 
 }
 
 .sect2{
     margin-left: 41px;
-    border-bottom: 1px solid white; 
     padding-bottom: 10px; 
+    border-bottom: 1px solid white; 
 }
 
 .sect3{
     margin-left: 41px;
+    padding-bottom: 10px;
     border-bottom: 1px solid white; 
-    padding-bottom: 10px; 
 }
 .sect4{
-    margin-left: 3px;
-    border-bottom: 1px solid white; 
+    margin-left: 41px;
     padding-bottom: 10px; 
+    border-bottom: 1px solid white; 
 }
 .sect5{
-    margin-left: 3px;
+    margin-left: 41px;
     padding-bottom: 10px; 
+    border-bottom: 1px solid white; 
 }
 
 .main{
     padding: 40px;
     padding-bottom: 10px; 
+    
 }
 
 .center{
     border-bottom: 1px solid white; 
     padding-bottom: 10px; 
-}
-
-.desc-curso{
-    margin-left: 24px;
 }
 
 .curso1{
@@ -114,17 +112,14 @@ a{
     margin-left: 24px;
 }
 
-.curso6{
-    margin-left: 6px;
+.curso7{
+    margin-left: 24px;
 }
 .curso8{
     margin-left: 24px;
 }
 .curso9{
     margin-left: 24px;
-    border-bottom: 1px solid white; 
-    padding-bottom: 10px; 
-    padding: 15px;
 }
 
 .biblioteca1{
